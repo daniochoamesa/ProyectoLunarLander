@@ -1,2 +1,4 @@
 # ProyectoLunarLander
 HTML con CSS
+En este proyecto he tenido que hacer cambios importantes al original presentado por Patrikh, en elementos como las imágenes ya que los botones no se correspondían con las necesidades del juego. También ha habido cambios en la nave ya que no me parecía un diseño adecuado para una página como esta.
+Nos encontramos 4 capas principales en las que se divide el juego. En la capa A está el panel de control donde podemos localizar la velocidad, altura y fuel de la nave. En la capa B estando en el centro de la pantalla se encuentra la nave con una altura correspondiente al 20& del div. En la capa C, el botón de menú con las opciones de Jugar,Reiniciar,Instrucciones y Ayuda. Por último en la capa D se encuentra la Luna que será el lugar de aterrizaje de la nave. Ésta ha tenida que ser sustituida ya que la implementación de la imagen elegida resultaba complicada y no se adecuaba a las necesidades de la página.
